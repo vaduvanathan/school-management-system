@@ -1,0 +1,241 @@
+----------------------------------
+WELCOME TO SCHOOL MANAGEMENT SYSTEM
+-----------------------------------
+1. STUDENT MANAGEMENT
+2. EMPLOYEE MANAGEMENT
+3. FEE MANAGEMENT
+4. EXAM MANAGEMENT
+5. EXIT
+
+Enter your choice (1-5) : 1
+
+WELCOME TO STUDENT MANAGEMENT SYSTEM
+
+a. NEW ADMISSION
+b. UPDATE STUDENT DETAILS
+c. ISSUE TC
+d. VIEW ALL STUDENTS
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : d
+
+--- STUDENT DETAILS ---
+Name                 Adm No     DOB          Class      City           
+-------------------------------------------------------------------
+No student records found.
+-------------------------------------------------------------------
+
+WELCOME TO STUDENT MANAGEMENT SYSTEM
+
+a. NEW ADMISSION
+b. UPDATE STUDENT DETAILS
+c. ISSUE TC
+d. VIEW ALL STUDENTS
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : a
+Enter Student Name : Alice
+Enter Admission No : 1001
+Enter Date of Birth (yyyy-mm-dd): 2010-05-15
+Enter Class for admission: 5th
+Enter City : Chennai
+Data inserted successfully.
+
+Modified details are..
+
+--- STUDENT DETAILS ---
+Name                 Adm No     DOB          Class      City           
+-------------------------------------------------------------------
+Alice                1001       2010-05-15   5th        Chennai        
+-------------------------------------------------------------------
+
+WELCOME TO STUDENT MANAGEMENT SYSTEM
+
+a. NEW ADMISSION
+b. UPDATE STUDENT DETAILS
+c. ISSUE TC
+d. VIEW ALL STUDENTS
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : a
+Enter Student Name : Bob
+Enter Admission No : 1002
+Enter Date of Birth (yyyy-mm-dd): 2011-01-20
+Enter Class for admission: 4th
+Enter City : Mumbai
+Data inserted successfully.
+
+Modified details are..
+
+--- STUDENT DETAILS ---
+Name                 Adm No     DOB          Class      City           
+-------------------------------------------------------------------
+Alice                1001       2010-05-15   5th        Chennai        
+Bob                  1002       2011-01-20   4th        Mumbai         
+-------------------------------------------------------------------
+
+WELCOME TO STUDENT MANAGEMENT SYSTEM
+
+a. NEW ADMISSION
+b. UPDATE STUDENT DETAILS
+c. ISSUE TC
+d. VIEW ALL STUDENTS
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : b
+Enter Admission No To Update: 1001
+Enter New Class: 6th
+Enter new City: Bengaluru
+
+Student details updated successfully.
+
+Modified details are..
+
+--- STUDENT DETAILS ---
+Name                 Adm No     DOB          Class      City           
+-------------------------------------------------------------------
+Alice                1001       2010-05-15   6th        Bengaluru      
+Bob                  1002       2011-01-20   4th        Mumbai         
+-------------------------------------------------------------------
+
+WELCOME TO STUDENT MANAGEMENT SYSTEM
+
+a. NEW ADMISSION
+b. UPDATE STUDENT DETAILS
+c. ISSUE TC
+d. VIEW ALL STUDENTS
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : e
+
+----------------------------------
+WELCOME TO SCHOOL MANAGEMENT SYSTEM
+-----------------------------------
+1. STUDENT MANAGEMENT
+2. EMPLOYEE MANAGEMENT
+3. FEE MANAGEMENT
+4. EXAM MANAGEMENT
+5. EXIT
+
+Enter your choice (1-5) : 2
+
+WELCOME TO EMPLOYEE MANAGEMENT SYSTEM
+
+a. NEW EMPLOYEE
+b. UPDATE STAFF DETAILS
+c. DELETE EMPLOYEE
+d. VIEW EMPLOYEE
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : a
+Enter Employee Name : John Doe
+Enter Employee No : 201
+Enter Designation: Teacher
+Enter date of joining (yyyy-mm-dd): 2023-09-01
+Employee data inserted successfully.
+
+Modified details are..
+
+--- EMPLOYEE DETAILS ---
+Emp No     Name                 Designation     Hire Date   
+------------------------------------------------------------
+201        John Doe             Teacher         2023-09-01  
+------------------------------------------------------------
+
+WELCOME TO EMPLOYEE MANAGEMENT SYSTEM
+
+a. NEW EMPLOYEE
+b. UPDATE STAFF DETAILS
+c. DELETE EMPLOYEE
+d. VIEW EMPLOYEE
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : e
+
+----------------------------------
+WELCOME TO SCHOOL MANAGEMENT SYSTEM
+-----------------------------------
+1. STUDENT MANAGEMENT
+2. EMPLOYEE MANAGEMENT
+3. FEE MANAGEMENT
+4. EXAM MANAGEMENT
+5. EXIT
+
+Enter your choice (1-5) : 3
+
+WELCOME TO FEE MANAGEMENT SYSTEM
+
+a. NEW FEE
+b. UPDATE FEE
+c. EXEMPT FEE
+d. VIEW FEES
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : a
+Enter Student Admission No : 1001
+Enter fee amount : 5000
+Enter Month : January
+Fee data inserted successfully.
+
+Modified details are..
+
+--- FEES DETAILS ---
+Adm No     Fee Amount   Month     
+-----------------------------------
+1001       5000.00      January   
+-----------------------------------
+
+WELCOME TO FEE MANAGEMENT SYSTEM
+
+a. NEW FEE
+b. UPDATE FEE
+c. EXEMPT FEE
+d. VIEW FEES
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : e
+
+----------------------------------
+WELCOME TO SCHOOL MANAGEMENT SYSTEM
+-----------------------------------
+1. STUDENT MANAGEMENT
+2. EMPLOYEE MANAGEMENT
+3. FEE MANAGEMENT
+4. EXAM MANAGEMENT
+5. EXIT
+
+Enter your choice (1-5) : 4
+
+WELCOME TO EXAM MANAGEMENT SYSTEM
+
+a. EXAM DETAILS
+b. UPDATE DETAILS 
+c. DELETE DETAILS
+d. VIEW EXAM DETAILS
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : a
+Enter Student Name : Bob
+Enter Admission No : 1002
+Enter percentage : 85.5
+Enter result (e.g., Pass/Fail): Pass
+Exam data inserted successfully.
+
+Modified details are..
+
+--- EXAM DETAILS ---
+Student Name         Adm No     Percentage   Result    
+-------------------------------------------------------
+Bob                  1002       85.50        Pass      
+-------------------------------------------------------
+
+WELCOME TO EXAM MANAGEMENT SYSTEM
+
+a. EXAM DETAILS
+b. UPDATE DETAILS 
+c. DELETE DETAILS
+d. VIEW EXAM DETAILS
+e. BACK TO MAIN MENU
+Enter your choice (a-e) : e
+
+----------------------------------
+WELCOME TO SCHOOL MANAGEMENT SYSTEM
+-----------------------------------
+1. STUDENT MANAGEMENT
+2. EMPLOYEE MANAGEMENT
+3. FEE MANAGEMENT
+4. EXAM MANAGEMENT
+5. EXIT
+
+Enter your choice (1-5) : 5
+Exiting School Management System. Goodbye!
