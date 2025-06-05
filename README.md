@@ -87,10 +87,3 @@ To run this project locally (after downloading the code), you'll need:
     ```
 4.  Follow the on-screen menu prompts to interact with the system.
 
-## Sample Output
-
-Here are some sample interactions and outputs from the system.
-
----
-
-### Main Menu Interaction
